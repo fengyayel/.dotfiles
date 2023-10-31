@@ -1,1 +1,1 @@
-# glazeWM configuration
+# glazeWM configuration(edit)
