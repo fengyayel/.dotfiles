@@ -1,0 +1,2 @@
+# .dotfiles
+glazeWM configuration
