@@ -17,7 +17,7 @@ api.addSearchAlias('q', 'netflix', 'https://www.netflix.com/search?q=', 's', 'nu
     });
 });
 
-api.addSearchAlias('l', 'bilibili', 'https://search.bilibili.com/all?from_source=webtop_search&spm_id_from=333.1007&search_source=5&keyword=', 's', 'null', function(response) {
+api.addSearchAlias('l', 'bilibili', 'https://search.bilibili.com/all?from_source=webtop_search&spm_id_from=333.1007&search_source=5&keyword=', 's', 'https://s.search.bilibili.com/main/suggest?term=', function(response) {
     var res = JSON.parse(response.text);
     return res.map(function(r){
         return r.phrase;
