@@ -1,1 +1,1 @@
-基于[https://github.com/gxt-kt/dotfiles]的配置文件做了一些修改。
+基于gxt_kt的配置文件
