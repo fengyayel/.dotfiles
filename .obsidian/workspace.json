@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c7a906a1c7b69379",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.2"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +158,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "b6d8808dd5da978f",
+  "active": "c7a906a1c7b69379",
   "lastOpenFiles": [
     "未命名.canvas",
     "cava/未命名.md",

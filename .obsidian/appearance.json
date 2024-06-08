@@ -1,7 +1,8 @@
 {
   "accentColor": "",
-  "cssTheme": "Tokyo Night",
+  "cssTheme": "",
   "interfaceFontFamily": "",
   "monospaceFontFamily": "",
-  "nativeMenus": true
+  "nativeMenus": true,
+  "theme": "system"
 }
